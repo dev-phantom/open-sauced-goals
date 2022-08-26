@@ -13,15 +13,15 @@
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 117,
-    "open_issues_count": 31,
-    "forks_count": 58
+    "stargazers_count": 120,
+    "open_issues_count": 30,
+    "forks_count": 59
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 96572,
-    "open_issues_count": 1776,
-    "forks_count": 25096
+    "stargazers_count": 96643,
+    "open_issues_count": 1774,
+    "forks_count": 25115
   },
   {
     "full_name": "DeveloperAspire/swifty-config",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 17326,
-    "open_issues_count": 221,
-    "forks_count": 2012
+    "stargazers_count": 17361,
+    "open_issues_count": 230,
+    "forks_count": 2014
   },
   {
     "full_name": "sdras/netlify-functions-example",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 21,
     "forks_count": 8
   },
   {
     "full_name": "Dun-sin/trick-generator",
-    "stargazers_count": 36,
-    "open_issues_count": 13,
-    "forks_count": 31
+    "stargazers_count": 37,
+    "open_issues_count": 14,
+    "forks_count": 32
   },
   {
     "full_name": "josephe44/make-we-share",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "madzadev/audio-player",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 37711,
-    "open_issues_count": 285,
-    "forks_count": 2304
+    "stargazers_count": 37980,
+    "open_issues_count": 289,
+    "forks_count": 2316
   },
   {
     "full_name": "negomi/react-burger-menu",
     "stargazers_count": 4758,
     "open_issues_count": 7,
-    "forks_count": 586
+    "forks_count": 585
   },
   {
     "full_name": "dativeJs/dativejs",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "nextcloud/server",
-    "stargazers_count": 19785,
-    "open_issues_count": 2444,
-    "forks_count": 3163
+    "stargazers_count": 19803,
+    "open_issues_count": 2447,
+    "forks_count": 3165
   },
   {
     "full_name": "commaai/openpilot",
-    "stargazers_count": 35624,
-    "open_issues_count": 283,
-    "forks_count": 6535
+    "stargazers_count": 35663,
+    "open_issues_count": 279,
+    "forks_count": 6545
   },
   {
     "full_name": "sadiqabubakar526/FLEX-IT-APP",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 206185,
+    "stargazers_count": 206829,
     "open_issues_count": 29,
-    "forks_count": 23606
+    "forks_count": 23657
   }
 ]
