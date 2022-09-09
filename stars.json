@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 15932,
-    "open_issues_count": 106,
-    "forks_count": 4106
+    "stargazers_count": 15967,
+    "open_issues_count": 107,
+    "forks_count": 4122
   },
   {
     "full_name": "vasanthk/react-bits",
-    "stargazers_count": 12437,
+    "stargazers_count": 12446,
     "open_issues_count": 9,
     "forks_count": 813
   },
@@ -21,19 +21,19 @@
     "full_name": "linkashare/linkashare-ui",
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 134,
-    "open_issues_count": 30,
+    "stargazers_count": 137,
+    "open_issues_count": 26,
     "forks_count": 60
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 96832,
-    "open_issues_count": 1782,
-    "forks_count": 25181
+    "stargazers_count": 96881,
+    "open_issues_count": 1787,
+    "forks_count": 25194
   },
   {
     "full_name": "DeveloperAspire/swifty-config",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 17462,
-    "open_issues_count": 212,
-    "forks_count": 2033
+    "stargazers_count": 17488,
+    "open_issues_count": 231,
+    "forks_count": 2035
   },
   {
     "full_name": "sdras/netlify-functions-example",
@@ -57,7 +57,7 @@
     "full_name": "Dun-sin/trick-generator",
     "stargazers_count": 46,
     "open_issues_count": 13,
-    "forks_count": 40
+    "forks_count": 42
   },
   {
     "full_name": "josephe44/make-we-share",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "machadop1407/react-firebase-blog-website",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "madzadev/audio-player",
-    "stargazers_count": 129,
+    "stargazers_count": 128,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 38394,
-    "open_issues_count": 285,
-    "forks_count": 2333
+    "stargazers_count": 38479,
+    "open_issues_count": 283,
+    "forks_count": 2334
   },
   {
     "full_name": "negomi/react-burger-menu",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "nextcloud/server",
-    "stargazers_count": 20044,
-    "open_issues_count": 2533,
-    "forks_count": 3179
+    "stargazers_count": 20054,
+    "open_issues_count": 2541,
+    "forks_count": 3183
   },
   {
     "full_name": "commaai/openpilot",
-    "stargazers_count": 35788,
-    "open_issues_count": 286,
-    "forks_count": 6574
+    "stargazers_count": 35815,
+    "open_issues_count": 288,
+    "forks_count": 6578
   },
   {
     "full_name": "sadiqabubakar526/FLEX-IT-APP",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 208093,
+    "stargazers_count": 208367,
     "open_issues_count": 40,
-    "forks_count": 23796
+    "forks_count": 23837
   }
 ]
