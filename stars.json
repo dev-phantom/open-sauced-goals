@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "emmannweb/eshopappltd",
+    "stargazers_count": 34,
+    "open_issues_count": 0,
+    "forks_count": 13
+  },
+  {
     "full_name": "kawojue/TOOPCC",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "iyanuloluwa-Miracle/Real-Estate_API",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 33145,
-    "open_issues_count": 141,
-    "forks_count": 2934
+    "stargazers_count": 33196,
+    "open_issues_count": 147,
+    "forks_count": 2939
   },
   {
     "full_name": "acekyd/made-in-nigeria",
-    "stargazers_count": 890,
+    "stargazers_count": 891,
     "open_issues_count": 12,
     "forks_count": 369
   },
@@ -69,19 +75,19 @@
     "full_name": "mihiraggarwal/select-gpt",
     "stargazers_count": 56,
     "open_issues_count": 2,
-    "forks_count": 7
+    "forks_count": 6
   },
   {
     "full_name": "Njong392/Abbreve",
     "stargazers_count": 120,
-    "open_issues_count": 13,
-    "forks_count": 125
+    "open_issues_count": 14,
+    "forks_count": 126
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 4117,
-    "open_issues_count": 80,
-    "forks_count": 3195
+    "stargazers_count": 4137,
+    "open_issues_count": 92,
+    "forks_count": 3230
   },
   {
     "full_name": "yhoungdev/private-me",
@@ -97,13 +103,13 @@
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 21125,
-    "open_issues_count": 192,
-    "forks_count": 5769
+    "stargazers_count": 21175,
+    "open_issues_count": 191,
+    "forks_count": 5789
   },
   {
     "full_name": "vasanthk/react-bits",
-    "stargazers_count": 15395,
+    "stargazers_count": 15417,
     "open_issues_count": 9,
     "forks_count": 1074
   },
@@ -127,21 +133,21 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 100081,
-    "open_issues_count": 2041,
-    "forks_count": 26420
+    "stargazers_count": 100112,
+    "open_issues_count": 2042,
+    "forks_count": 26441
   },
   {
     "full_name": "DeveloperAspire/swifty-config",
-    "stargazers_count": 11,
+    "stargazers_count": 13,
     "open_issues_count": 6,
     "forks_count": 3
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 21896,
-    "open_issues_count": 236,
-    "forks_count": 2815
+    "stargazers_count": 21938,
+    "open_issues_count": 241,
+    "forks_count": 2826
   },
   {
     "full_name": "sdras/netlify-functions-example",
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 295,
+    "stargazers_count": 296,
     "open_issues_count": 1,
     "forks_count": 149
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 245,
     "open_issues_count": 4,
     "forks_count": 38
-  },
-  {
-    "full_name": "supabase/supabase",
-    "stargazers_count": 51794,
-    "open_issues_count": 315,
-    "forks_count": 3936
   }
 ]
