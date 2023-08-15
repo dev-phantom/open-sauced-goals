@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "BuilderIO/partytown",
+    "stargazers_count": 11705,
+    "open_issues_count": 99,
+    "forks_count": 363
+  },
+  {
+    "full_name": "fabian-hiller/valibot",
+    "stargazers_count": 2874,
+    "open_issues_count": 38,
+    "forks_count": 50
+  },
+  {
+    "full_name": "open-sauced/100-days-of-oss-template",
+    "stargazers_count": 17,
+    "open_issues_count": 1,
+    "forks_count": 13
+  },
+  {
+    "full_name": "kawojue/express-sec",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "emmannweb/eshopappltd",
     "stargazers_count": 36,
     "open_issues_count": 0,
@@ -37,15 +61,15 @@
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 33971,
-    "open_issues_count": 198,
-    "forks_count": 2994
+    "stargazers_count": 34012,
+    "open_issues_count": 207,
+    "forks_count": 2998
   },
   {
     "full_name": "acekyd/made-in-nigeria",
     "stargazers_count": 906,
     "open_issues_count": 13,
-    "forks_count": 375
+    "forks_count": 376
   },
   {
     "full_name": "NOUNITE/nounite-frontend",
@@ -75,19 +99,19 @@
     "full_name": "mihiraggarwal/select-gpt",
     "stargazers_count": 58,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Njong392/Abbreve",
     "stargazers_count": 123,
     "open_issues_count": 9,
-    "forks_count": 128
+    "forks_count": 129
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 4443,
-    "open_issues_count": 109,
-    "forks_count": 3478
+    "stargazers_count": 4463,
+    "open_issues_count": 114,
+    "forks_count": 3485
   },
   {
     "full_name": "yhoungdev/private-me",
@@ -103,15 +127,15 @@
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 22209,
+    "stargazers_count": 22261,
     "open_issues_count": 206,
-    "forks_count": 6146
+    "forks_count": 6166
   },
   {
     "full_name": "vasanthk/react-bits",
-    "stargazers_count": 15652,
+    "stargazers_count": 15661,
     "open_issues_count": 9,
-    "forks_count": 1095
+    "forks_count": 1096
   },
   {
     "full_name": "princecodes247/vawlence-school",
@@ -127,14 +151,14 @@
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 323,
-    "open_issues_count": 34,
+    "stargazers_count": 325,
+    "open_issues_count": 31,
     "forks_count": 110
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 100521,
-    "open_issues_count": 2084,
+    "stargazers_count": 100544,
+    "open_issues_count": 2087,
     "forks_count": 26617
   },
   {
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 22735,
-    "open_issues_count": 240,
-    "forks_count": 2999
+    "stargazers_count": 22771,
+    "open_issues_count": 248,
+    "forks_count": 3007
   },
   {
     "full_name": "sdras/netlify-functions-example",
     "stargazers_count": 71,
     "open_issues_count": 24,
     "forks_count": 10
-  },
-  {
-    "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 307,
-    "open_issues_count": 9,
-    "forks_count": 160
-  },
-  {
-    "full_name": "josephe44/make-we-share",
-    "stargazers_count": 2,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "machadop1407/react-firebase-blog-website",
-    "stargazers_count": 71,
-    "open_issues_count": 0,
-    "forks_count": 44
-  },
-  {
-    "full_name": "madzadev/audio-player",
-    "stargazers_count": 253,
-    "open_issues_count": 4,
-    "forks_count": 38
   }
 ]
